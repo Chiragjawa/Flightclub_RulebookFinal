@@ -145,7 +145,7 @@ h3{
        width :1rem; 
    } 
    .rule_content{
-    display: inline;
+    display: inline-flex;
     margin: 0px 2px;
     padding: 0px -80px;
     font-size: 1.15rem;
@@ -154,6 +154,7 @@ h3{
 .rule_content span{
     
     text-align: justify;
+    display: inline-flex;
     margin:1px 1px;
     margin-right: 180px;
     padding :10px 11px
@@ -185,7 +186,8 @@ h3{
        width :1rem; 
    } 
    .rule_content{
-    display: inline;
+  
+    display: inline-flex;
     margin: 0px 2px;
     padding: 0px -80px;
     font-size: 1.15rem;
@@ -194,6 +196,7 @@ h3{
 .rule_content span{
     
     text-align: justify;
+    display: inline-flex;
     margin:1px 1px;
     margin-right: 90px;
     padding :10px 11px
@@ -225,7 +228,8 @@ h3{
        width :1rem; 
    } 
    .rule_content{
-    display: inline;
+    display: inline-flex;
+    
     margin: 0px 2px;
     padding: 0px -80px;
     font-size: 1.15rem;
@@ -234,6 +238,7 @@ h3{
 .rule_content span{
     
     text-align: justify;
+    display: inline-flex;
     margin:1px 1px;
     margin-right: 60px;
     padding :10px 11px
@@ -265,7 +270,7 @@ h3{
        width :1rem; 
    } 
    .rule_content{
-    display: inline;
+    display: inline-flex;
     margin: 0px 2px;
     padding: 0px -80px;
     font-size: 1.15rem;
@@ -274,6 +279,7 @@ h3{
 .rule_content span{
     
     text-align: justify;
+    display: inline-flex;
     margin:1px 1px;
     margin-right: 850px;
     padding :10px 11px
@@ -302,7 +308,7 @@ h3{
        width :1rem; 
    } 
    .rule_content{
-    display: inline;
+    display: inline-flex;
     margin: 0px 2px;
     padding: 0px -80px;
     font-size: 1.15rem;
@@ -310,7 +316,7 @@ h3{
 }
 .rule_content span{
     
-    text-align: justify;
+    display: inline-flex;
     margin:1px 1px;
     margin-right: 420px;
     padding :10px 11px
@@ -339,7 +345,7 @@ h3{
        width :1rem; 
    } 
    .rule_content{
-    display: inline;
+    display: inline-flex;
     margin: 0px 2px;
     padding: 0px -80px;
     font-size: 1.5rem;
@@ -348,6 +354,7 @@ h3{
 .rule_content span{
     
     text-align: justify;
+    display: inline-flex;
     margin:1px 1px;
     margin-right: 400px;
     padding :10px 11px
